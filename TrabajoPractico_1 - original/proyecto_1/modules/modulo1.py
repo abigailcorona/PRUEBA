@@ -6,3 +6,6 @@ def funcion():
 
 def funcion2():
     print("2")
+
+def funcion3():
+    print("3"
